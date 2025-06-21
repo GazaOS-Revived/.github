@@ -1,4 +1,4 @@
-# gazaOS base on Los-Ext  
+# gazaOS base on lineage  
 
 - Nothing much just another fork of LineageOS X Los-Ext
 - Personal Project – mostly for myself and my friends 
