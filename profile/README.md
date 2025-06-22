@@ -1,6 +1,6 @@
 # gazaOS base on lineage  
 
-- Nothing much just another fork of LineageOS X Los-Ext
+- Nothing much just another fork of LineageOS X matrixx 
 - Personal Project – mostly for myself and my friends 
 
 ### Notes
